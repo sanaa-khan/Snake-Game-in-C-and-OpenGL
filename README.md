@@ -6,3 +6,6 @@ A basic snake game made in C++, using openGL for the interface. Developed on Ubu
   2: Run "make clean" then "make"<br>
   3: "game-release" executable will be created<br>
   4: Any changes should be done in game-release.cpp<br>
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
