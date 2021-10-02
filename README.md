@@ -1,4 +1,4 @@
-# Snake-Game-in-C++-and-OpenGL
+# Snake Game in C++ and OpenGL
 A basic snake game made in C++, using openGL for the interface. Developed on Ubuntu.
 
 ### How to run: <br>
